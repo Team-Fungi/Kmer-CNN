@@ -1,1 +1,2 @@
 # Kmer-CNN
+This directory includes the results of running the CNN on 3mer, 4mer and 5mer on the following taxonomic levels: PHYLUM, CLASS, ORDER, FAMILY and GENUS. There are 4 files, corresponding to the result of training, validating and testing with the 4 datasets created in the Data Preparation phase (5% cut-off with ambiguous nucleotides, 5% cut-off without ambiguous nucleotides, 1% cut-off with ambiguous nucleotides, 1% cut-off without ambiguous nucleotides).
